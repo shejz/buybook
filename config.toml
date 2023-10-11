@@ -1,8 +1,8 @@
 ######################## default configuration ####################
 baseURL = "https://selling-book.netlify.app/"
 languageCode = "en-us"
-title = "Bio-Energy"
-theme = "buy-book"
+title = "Influencer"
+theme = "influencer-hugo"
 summaryLength = "10"
 paginate = 6
 
